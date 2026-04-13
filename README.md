@@ -8,7 +8,7 @@
 
 ### 🏢 Experience
 
-- Currently at **RSA System / TATA Consultancy Services**
+- Currently at **RSA System**
 - Based in **United States of America**
 
 ### 🛠️ Tech Stack
